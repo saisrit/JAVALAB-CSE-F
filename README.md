@@ -29,7 +29,8 @@ class DefaultValues {
 ```
 
 ##output
-![output]()
+![output](image.png)
+
 
 
 1B>Program to find roots of a quadratic equation
