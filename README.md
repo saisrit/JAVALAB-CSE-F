@@ -89,7 +89,7 @@ class QuadraticRoots {
 EXPERIMENT2
 
 A>Implementing Class Mechanism in Java
-
+CODE:
 
 class MyClass {
     void displayMessage() {
@@ -114,7 +114,7 @@ public class Mainclass {
 
 
 B>>Method Overloading in Java
-
+CODE:
 class Overload{
     int add(int a, int b) {
         return a + b;
@@ -143,7 +143,8 @@ class Overload{
 
 
 
-C>Implementing a Constructor in Java
+C>Implementing a Constructor in JAVA
+CODE:
 class Student {
     String name;
     int age;
