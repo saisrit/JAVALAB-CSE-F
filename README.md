@@ -29,7 +29,7 @@ class DefaultValues {
 ```
 
 ##output
-![output](exp1b0)
+![output](java1a)
 
 1B>Program to find roots of a quadratic equation
 CODE:
