@@ -85,21 +85,3 @@ class QuadraticRoots {
 
 '''
 
-class MyClass {
-    void displayMessage() {
-        System.out.println("Hello! I am supreeth.");
-    }
-    
-    int add(int a, int b) {
-        return a + b;
-    }
-}
-
-public class Mainclass {
-    public static void main(String[] args) {
-        MyClass obj = new MyClass();  // Object creation
-        obj.displayMessage();         // Method invocation
-        int result = obj.add(15, 30);
-        System.out.println("Addition Result: " + result);
-    }
-}
