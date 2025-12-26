@@ -29,7 +29,7 @@ class DefaultValues {
 ```
 
 ##output
-![output](exp1bo.png)
+![output]()
 
 
 1B>Program to find roots of a quadratic equation
