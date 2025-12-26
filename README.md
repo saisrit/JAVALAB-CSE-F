@@ -83,6 +83,8 @@ class QuadraticRoots {
 ##output
 ![output](ep1b.png)
 
+'''
+
 
 EXPERIMENT2
 
@@ -92,11 +94,13 @@ A>Implementing Class Mechanism in Java
 class MyClass {
     void displayMessage() {
         System.out.println("Hello! I am supreeth.");
+        
     }
     int add(int a, int b) {
         return a + b;
     }
 }
+
 public class Mainclass {
     public static void main(String[] args) {
         MyClass obj = new MyClass();
@@ -105,6 +109,8 @@ public class Mainclass {
         System.out.println("Addition Result: " + result);
     }
 }
+
+'''
 
 
 B>>Method Overloading in Java
@@ -122,13 +128,19 @@ class Overload{
     public static void main(String[] args) {
         Overload obj = new Overload();
         int result1 = obj.add(15, 50);
+        
         double result2 = obj.add(10.5, 40.5);
         int result3 = obj.add(25,45,60);
+
+        
         System.out.println("result of adding two integers: " + result1);
         System.out.println("result of adding two doubles values : " + result2);
         System.out.println("result of adding three integers: " + result3);
     }
 }
+
+
+
 
 
 C>Implementing a Constructor in Java
