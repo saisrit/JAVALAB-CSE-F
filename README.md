@@ -29,7 +29,7 @@ class DefaultValues {
 ```
 
 ##output
-![output](image.png)
+![output](ep1a.png)
 
 
 
@@ -81,6 +81,6 @@ class QuadraticRoots {
 
 
 ##output
-![output](ep1ao.png)
+![output](ep1b.png)
 
 
