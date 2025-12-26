@@ -76,6 +76,8 @@ class QuadraticRoots {
         sc.close();
     }
 }
+
+
 ##output
 ![output](ep1ao.png)
 
