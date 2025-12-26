@@ -1,5 +1,6 @@
 # JAVALAB-CSE-F
 EXPERIMENT-1
+```java
 1A>DISPLAY DEFAULT VALUES OF PRIMITIVE DATA TYPES IN JAVA
 CODE:
 class DefaultValues {
@@ -25,15 +26,6 @@ class DefaultValues {
     }
 }
 
-OUTPUT:
-Default byte value: 0
-Default short value: 0
-Default int value: 0
-Default long value: 0
-Default float value: 0.0
-Default double value: 0.0
-Default char value: ' '
-Default boolean value: false
 
 
 
@@ -81,33 +73,5 @@ class QuadraticRoots {
         sc.close();
     }
 }
-
-OUTPUT:
-Enter coefficient a: 2
-Enter coefficient b: 3
-Enter coefficient c: -1
-Discriminant = 17.0
-Roots are real and distinct
-Root 1 = 0.28077640640441515
-Root 2 = -1.7807764064044151
-
-Enter coefficient a: 1
-Enter coefficient b: 1
-Enter coefficient c: 1
-Discriminant = -3.0
-Roots are imaginary
-Root 1 = -0.5 + 0.8660254037844386i
-Root 2 = -0.5 - 0.8660254037844386i
-
-$ java QuadraticRoot.java
-Enter coefficient a: 1
-Enter coefficient b: 4
-Enter coefficient c: 4
-Discriminant = 0.0
-Roots are real and equal
-Root = -2.0
-
-
-
 
 
