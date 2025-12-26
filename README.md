@@ -29,7 +29,8 @@ class DefaultValues {
 ```
 
 ##output
-![output](output1a)
+![output](https://github.com/saisrit/JAVALAB-CSE-F/blob/c9ec3516be600f4416986cef74f2c3c83f3c880d/exp1bo.png)
+
 
 1B>Program to find roots of a quadratic equation
 CODE:
