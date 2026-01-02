@@ -106,5 +106,7 @@ MyClass obj = new MyClass();
         System.out.println("Addition Result: " + result);
     }
 }
+##output
+![output](ep2a.png)
 ,,,
 
