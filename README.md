@@ -32,10 +32,9 @@ class DefaultValues {
 ![output](ep1a.png)
 
 
-
+''' java
 1B>Program to find roots of a quadratic equation
 CODE:
-'''
 import java.util.Scanner;
 
 class QuadraticRoots {
@@ -86,8 +85,10 @@ class QuadraticRoots {
 
 '''
 EXPERIMENT 2
-CODE:
 ,,,
+
+CODE:
+
 
 class MyClass {
    void displayMessage() {
