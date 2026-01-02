@@ -12,7 +12,6 @@ class DefaultValues {
     double d;
     char c;
     boolean bool;
-
         public static void main(String[] args) {
         DefaultValues obj = new DefaultValues();
         System.out.println("Default byte value: " + obj.b);
@@ -85,11 +84,8 @@ class QuadraticRoots {
 
 '''
 EXPERIMENT 2
-,,,
-
+'''
 CODE:
-
-
 class MyClass {
    void displayMessage() {
         System.out.println("Hello! I am supreeth.");
@@ -108,5 +104,6 @@ MyClass obj = new MyClass();
 }
 ##output
 ![output](ep2a.png)
+
 ,,,
 
