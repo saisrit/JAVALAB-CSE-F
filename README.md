@@ -111,7 +111,7 @@ MyClass obj = new MyClass();
 
 ```
 2B) program implement method overloading.
-
+CODE:
 class Overload{
 
     int add(int a, int b) {
@@ -150,7 +150,7 @@ class Overload{
 
 ```
 2c)program to implement constructor.
-
+CODE:
 class Student {
     String name;
     int age;
