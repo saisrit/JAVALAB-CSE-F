@@ -109,7 +109,7 @@ MyClass obj = new MyClass();
 ##output
 ![output](ep2a.png)
 
-```
+```java
 2B) program implement method overloading.
 CODE:
 class Overload{
@@ -148,7 +148,7 @@ class Overload{
 
 
 
-```
+```java
 2c)program to implement constructor.
 CODE:
 class Student {
