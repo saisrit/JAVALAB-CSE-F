@@ -137,7 +137,7 @@ class Overload{
 
 
 ```##output
-![output](https://github.com/saisrit/JAVALAB-CSE-F/blob/main/eb2b.png )
+![output](eb2b.png )
 
 
 
