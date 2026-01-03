@@ -31,7 +31,7 @@ class DefaultValues {
 ![output](ep1a.png)
 
 
-''' java
+``` java
 1B>Program to find roots of a quadratic equation
 CODE:
 import java.util.Scanner;
@@ -78,13 +78,13 @@ class QuadraticRoots {
 }
 
 
-
+```
 ##output
 ![output](ep1b.png)
 
-'''
+
 EXPERIMENT 2
-'''
+```java
 CODE:
 class MyClass {
    void displayMessage() {
@@ -102,8 +102,8 @@ MyClass obj = new MyClass();
         System.out.println("Addition Result: " + result);
     }
 }
+```
 ##output
 ![output](ep2a.png)
 
-,,,
 
