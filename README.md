@@ -85,6 +85,9 @@ class QuadraticRoots {
 
 EXPERIMENT 2
 ```java
+2A)Implement class mechanism in Java. Create a class, methods and invoke 
+them inside main method.
+
 CODE:
 class MyClass {
    void displayMessage() {
@@ -107,6 +110,8 @@ MyClass obj = new MyClass();
 ![output](ep2a.png)
 
 ```
+2B) program implement method overloading.
+
 class Overload{
 
     int add(int a, int b) {
@@ -143,7 +148,10 @@ class Overload{
 
 
 
-```class Student {
+```
+2c)program to implement constructor.
+
+class Student {
     String name;
     int age;
     int marks;
