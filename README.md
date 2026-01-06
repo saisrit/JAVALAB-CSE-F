@@ -226,4 +226,4 @@ class FibonacciSum {
 }
 ```
 ##output
-![output](ep2c.png)
+![output](IMG_20260107_010124.jpg)
