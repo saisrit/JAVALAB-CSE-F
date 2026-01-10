@@ -233,7 +233,7 @@ class FibonacciSum {
 
 EXPERIMENT-3
 3A)
-```
+```java
 CODE:class Student {
 
     // Instance variables
@@ -291,7 +291,8 @@ CODE:class Student {
 
 
 
-```
+``` java
+
 CODE:
 import java.util.Scanner;
 import java.util.Arrays;
@@ -349,8 +350,16 @@ class BinarySearch {
 
 
 ```
-```
+```java
+
+
+
+
 CODE:
+
+
+
+
 import java.util.Scanner;
 
 class BubbleSort {
