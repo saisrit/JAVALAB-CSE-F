@@ -232,7 +232,7 @@ class FibonacciSum {
 ![output](ADDEP2.png)
 
 EXPERIMENT-3
-3A)
+3A) IMPLEMENT CONSTRUCTOR OVERLOADING IN JAVA.
 ```java
 CODE:class Student {
 
@@ -293,7 +293,9 @@ CODE:class Student {
 ##output
 ![output](ep3a.png)
 
-
+3b) WRITE A JAVA PROGRAM TO SEARCH FOR AN ELEMENT IN A GIVEN LIST OF ELE-
+MENTS USING BINARY
+search mechanism.
 ``` java
 
 CODE:
@@ -359,6 +361,9 @@ class BinarySearch {
 ![output](ep3b.png)
 
 
+
+3C) DEVELOP A JAVA PROGRAM TO SORT FOR AN ELEMENT IN A GIVEN LIST OF ELE-
+MENTS USING BUBBLE SORT.
 ```java
 
 CODE:
