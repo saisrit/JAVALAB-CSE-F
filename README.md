@@ -27,12 +27,13 @@ class DefaultValues {
 
 ```
 
+
 ##output
 ![output](ep1a.png)
 
 
 ``` java
-1B>Program to find roots of a quadratic equation
+1B>PROGRAM TO FIND ROOTS OF A QUADRATIC EQUATION
 CODE:
 import java.util.Scanner;
 
@@ -85,9 +86,8 @@ class QuadraticRoots {
 
 EXPERIMENT 2
 ```java
-2A)Implement class mechanism in Java. Create a class, methods and invoke 
-them inside main method.
-
+2A)IMPLEMENT CLASS MECHANISM IN JAVA. CREATE A CLASS, METHODS AND INVOKE 
+THEM INSIDE MAIN METHOD.
 CODE:
 class MyClass {
    void displayMessage() {
@@ -110,7 +110,7 @@ MyClass obj = new MyClass();
 ![output](ep2a.png)
 
 ```java
-2B) program implement method overloading.
+2B) PROGRAM IMPLEMENT METHOD OVERLOADING.
 CODE:
 class Overload{
 
@@ -149,7 +149,7 @@ class Overload{
 
 
 ```java
-2c)program to implement constructor.
+2C)PROGRAM TO IMPLEMENT CONSTRUCTOR.
 CODE:
 class Student {
     String name;
@@ -184,11 +184,11 @@ class Student {
 
 ADDITIONAL EXPERIMENT-2
 
-2) To write a Java program to find the sum of the first n Fibonacci numbers.
-```java
-code:
-import java.util.Scanner;
+2) TO WRITE A JAVA PROGRAM TO FIND THE SUM OF THE FIRST N FIBONACCI NUMBERS.
+```JAVA
+CODE:
 
+import java.util.Scanner;
 class FibonacciSum {
     public static void main(String[] args) {
 
@@ -230,6 +230,7 @@ class FibonacciSum {
 ```
 ##output
 ![output](ADDEP2.png)
+
 
 EXPERIMENT-3
 3A) IMPLEMENT CONSTRUCTOR OVERLOADING IN JAVA.
