@@ -229,7 +229,7 @@ class FibonacciSum {
 }
 ```
 ##output
-![output](IMG_20260107_010124.jpg)
+![output](ADDEP2.png)
 
 EXPERIMENT-3
 3A)
