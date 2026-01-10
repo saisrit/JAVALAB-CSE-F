@@ -288,7 +288,10 @@ CODE:class Student {
         s3.display();
     }
 }
+```
 
+##output
+![output](ep3a.png)
 
 
 ``` java
@@ -350,15 +353,15 @@ class BinarySearch {
 
 
 ```
+
+
+##output
+![output](ep3b.png)
+
+
 ```java
 
-
-
-
 CODE:
-
-
-
 
 import java.util.Scanner;
 
@@ -403,6 +406,8 @@ class BubbleSort {
 
 ```
 
+##output
+![output](ep3c.png)
 
 
 
