@@ -282,10 +282,10 @@ CODE:class Student {
         Student s1 = new Student();
 
         // Object using 2-parameter constructor
-        Student s2 = new Student("Rahul", 20);
+        Student s2 = new Student("sai",19,95);
 
         // Object using 3-parameter constructor
-        Student s3 = new Student("Anita", 21, 85);
+        Student s3 = new Student("Ramu", 20, 80);
 
         // Display details
         s1.display();
