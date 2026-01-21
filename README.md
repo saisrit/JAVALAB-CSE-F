@@ -247,7 +247,7 @@ class Fibonacci {
 
 ```
 ##output
-![output](ADDEP2.png)
+![output](addexp2.png)
 
 
 EXPERIMENT-3
