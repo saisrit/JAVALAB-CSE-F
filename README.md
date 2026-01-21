@@ -187,46 +187,64 @@ ADDITIONAL EXPERIMENT-2
 2) TO WRITE A JAVA PROGRAM TO FIND THE SUM OF THE FIRST N FIBONACCI NUMBERS.
 ```JAVA
 CODE:
-
 import java.util.Scanner;
-class FibonacciSum {
-    public static void main(String[] args) {
 
+class Fibonacci {
+
+    int n;
+    int firstNumber;
+    int secondNumber;
+    int thirdNumber;
+    int sum;
+
+    // Constructor
+    Fibonacci(int number) {
+        n = number;
+        firstNumber = 0;
+        secondNumber = 1;
+        thirdNumber = 0;
+        sum = 0;
+    }
+
+    // Method to generate Fibonacci series and sum
+    void generate() {
+        System.out.print("Fibonacci Series: ");
+
+        int count = n; // to preserve original n
+
+        while (n > 0) {
+            sum += firstNumber;
+
+            if (n == 1) {
+                System.out.print(firstNumber + ".");
+            } else {
+                System.out.print(firstNumber + ", ");
+            }
+
+            thirdNumber = firstNumber + secondNumber;
+            firstNumber = secondNumber;
+            secondNumber = thirdNumber;
+
+            n--;
+        }
+
+        System.out.println("\nSum of Fibonacci series: " + sum);
+    }
+
+    // Main method
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the value of n: ");
-        int n = sc.nextInt();
+        int number = sc.nextInt();
 
-        int a = 0, b = 1, sum = 0;
-
-        if (n == 1) {
-            System.out.println("The first 1 Fibonacci number is: 0");
-            System.out.println("Sum of the first 1 Fibonacci numbers: 0");
-        }
-        else if (n == 2) {
-            System.out.println("The first 2 Fibonacci numbers are: 0 1");
-            System.out.println("Sum of the first 2 Fibonacci numbers: 1");
-        }
-        else {
-            System.out.print("The first " + n + " Fibonacci numbers are: ");
-            System.out.print(a + " " + b + " ");
-            sum = a + b;
-
-            for (int i = 3; i <= n; i++) {
-                int c = a + b;
-                System.out.print(c + " ");
-                sum = sum + c;
-                a = b;
-                b = c;
-            }
-
-            System.out.println();
-            System.out.println("Sum of the l " + n + " Fibonacci numbers: " + sum);
-        }
-
-        sc.close();
+        Fibonacci f = new Fibonacci(number);
+        f.generate();
     }
 }
+
+
+
 ```
 ##output
 ![output](ADDEP2.png)
