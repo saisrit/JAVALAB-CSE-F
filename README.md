@@ -524,6 +524,12 @@ public class Palindrome {
 ```
 ##output
 ![output](ADEP3.java.png)
+
+
+
+
+
+
 4)Java program to check if a number is a perfect number.
 
 ```java
