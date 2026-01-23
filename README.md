@@ -443,7 +443,7 @@ class BubbleSort {
 ADDITIONAL EXPERIMENT
 1)
 
-'''
+'''JAVA
 CODE:
 
 
@@ -482,8 +482,8 @@ else
 '''
 
 
-3)
-'''
+4)
+'''JAVA
 CODE:
 import java.util.Scanner;
 
@@ -511,21 +511,4 @@ public class PerfectNumber {
         sc.close();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 '''
-4)
-'''
-CODE:
-'''
-
