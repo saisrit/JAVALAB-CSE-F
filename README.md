@@ -480,6 +480,12 @@ else
 
 
 ```
+##output
+![output](addep1.png)
+
+
+
+
 3)Java program to determine if a given string is palindrome or not.
 ``` java
 CODE:
@@ -516,7 +522,8 @@ public class Palindrome {
     }
 }
 ```
-
+##output
+![output](ADEP3.java.png)
 4)Java program to check if a number is a perfect number.
 
 ```java
@@ -548,3 +555,5 @@ public class PerfectNumber {
     }
 }
 ```
+##output
+![output](addexp4.png)
