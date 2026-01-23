@@ -439,13 +439,13 @@ class BubbleSort {
 
 
 
-'''JAVA
-ADDITIONAL EXPERIMENT
-1)
 
+ADDITIONAL EXPERIMENT
+```JAVA
+1)Java program to Insert a sub string into a given main string from a
+given position.
 
 CODE:
-
 
 import java.util.Scanner;
 
@@ -479,9 +479,9 @@ else
 }
 
 
-'''
-'''JAVA
+```
 3)
+``` java
 CODE:
 import java.util.Scanner;
 
@@ -515,11 +515,11 @@ public class Palindrome {
         sc.close();
     }
 }
+```
 
-
-'''
-'''JAVA
 4)
+
+```java
 CODE:
 import java.util.Scanner;
 
@@ -547,4 +547,4 @@ public class PerfectNumber {
         sc.close();
     }
 }
-'''
+```
