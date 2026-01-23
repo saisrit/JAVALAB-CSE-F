@@ -440,7 +440,92 @@ class BubbleSort {
 
 
 
+ADDITIONAL EXPERIMENT
+1)
+
+'''
+CODE:
+
+
+import java.util.Scanner;
+
+public class Substring {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter the main string: ");
+        String mainString = sc.nextLine();
+
+        System.out.print("Enter the substring to insert: ");
+        String subString = sc.nextLine();
+
+        System.out.print("Enter the position to insert the substring: ");
+        int position = sc.nextInt();
+
+        if (position < 0 || position > mainString.length()) {
+            System.out.println("Invalid position!");
+        }
+else
+ {
+            String firstPart = mainString.substring(0, position);
+            String secondPart = mainString.substring(position);
+
+            String resultString = firstPart + subString + secondPart;
+            System.out.println("Resulting string: " + resultString);
+        }
+
+        sc.close();
+    }
+}
+
+
+'''
+
+
+3)
+'''
+CODE:
+import java.util.Scanner;
+
+public class PerfectNumber {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a positive integer: ");
+        int num = sc.nextInt();
+
+        int sum = 0;
+
+        for (int i = 1; i <= num - 1; i++) {
+            if (num % i == 0) {
+                sum = sum + i;
+            }
+        }
+
+        if (sum == num) {
+            System.out.println(num + " is a perfect number");
+        } else {
+            System.out.println(num + " is not a perfect number");
+        }
+
+        sc.close();
+    }
+}
 
 
 
+
+
+
+
+
+
+
+
+
+'''
+4)
+'''
+CODE:
+'''
 
