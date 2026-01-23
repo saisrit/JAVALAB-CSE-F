@@ -442,8 +442,8 @@ class BubbleSort {
 
 ADDITIONAL EXPERIMENT
 ```JAVA
-1)Java program to Insert a sub string into a given main string from a
-given position.
+1)JAVA PROGRAM TO INSERT A SUB STRING INTO A GIVEN MAIN STRING FROM A
+GIVEN POSITION.
 
 CODE:
 
@@ -486,8 +486,8 @@ else
 
 
 
-3)Java program to determine if a given string is palindrome or not.
-``` java
+3)JAVA PROGRAM TO DETERMINE IF A GIVEN STRING IS PALINDROME OR NOT.
+``` JAVA
 CODE:
 import java.util.Scanner;
 
@@ -530,8 +530,7 @@ public class Palindrome {
 
 
 
-4)Java program to check if a number is a perfect number.
-
+4)JAVA PROGRAM TO CHECK IF A NUMBER IS A PERFECT NUMBER.
 ```java
 CODE:
 import java.util.Scanner;
