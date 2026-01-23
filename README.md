@@ -480,7 +480,7 @@ else
 
 
 ```
-3)
+3)Java program to determine if a given string is palindrome or not.
 ``` java
 CODE:
 import java.util.Scanner;
@@ -517,7 +517,7 @@ public class Palindrome {
 }
 ```
 
-4)
+4)Java program to check if a number is a perfect number.
 
 ```java
 CODE:
