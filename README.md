@@ -629,7 +629,7 @@ public class TestEmployee {
 }
 ```
 ##output
-![output](addexp4a.png)
+![output](exp4a.png)
 
 4B.MULTIPLE INHERITENCE
 ```JAVA
@@ -679,7 +679,7 @@ public class TestVehicle {
 
 ```
 ##output
-![output](addexp4b.png)
+![output](exp4b.png)
 
 
 4C.ABSTRACRT CLASS
@@ -720,7 +720,7 @@ public class TestFigure {
 
 ```
 ##output
-![output](addexp4c.png)
+![output](exp4c.png)
 
 
 
