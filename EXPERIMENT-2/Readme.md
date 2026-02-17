@@ -49,7 +49,7 @@ class Overload{
 }
 ```
 ## output
-[output of 2b](eb2b.png)
+![output of 2b](eb2b.png)
 
 
 # c>student
@@ -76,7 +76,7 @@ class Student {
 
 ```
 ## output
-[output of 2c](ep2c.png)
+![output of 2c](ep2c.png)
 
 
 
