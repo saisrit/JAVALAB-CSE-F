@@ -1,7 +1,7 @@
 EXPERIMENT-3
 
 A)IMPLEMENT CONSTRUCTOR OVERLOADING IN JAVA.
-'''java
+```java
 CODE:class Student {
 
     // Instance variables
@@ -56,10 +56,10 @@ CODE:class Student {
         s3.display();
     }
 }
-'''
+```
 
 B)WRITE A JAVA PROGRAM TO SEARCH FOR AN ELEMENT IN A GIVEN LIST OF ELE- MENTS USING BINARY search mechanism
-'''java
+```java
 CODE:
 import java.util.Scanner;
 import java.util.Arrays;
@@ -114,10 +114,10 @@ class BinarySearch {
         sc.close();
     }
 }
-'''
+```
 
 C)DEVELOP A JAVA PROGRAM TO SORT FOR AN ELEMENT IN A GIVEN LIST OF ELE- MENTS USING BUBBLE SORT.
-'''java
+```java
 
 CODE:
 
@@ -161,4 +161,4 @@ class BubbleSort {
         sc.close();
     }
 }
-'''
+```
