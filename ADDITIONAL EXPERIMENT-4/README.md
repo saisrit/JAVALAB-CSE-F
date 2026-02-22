@@ -30,3 +30,10 @@ public class PerfectNumber {
 }
 
 ```
+
+##output
+![output](addexp4.png)
+
+
+
+
