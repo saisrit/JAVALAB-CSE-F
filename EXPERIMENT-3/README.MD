@@ -57,6 +57,8 @@ CODE:class Student {
     }
 }
 ```
+##output
+![output](ep3a.png)
 
 B)WRITE A JAVA PROGRAM TO SEARCH FOR AN ELEMENT IN A GIVEN LIST OF ELE- MENTS USING BINARY search mechanism
 ```java
@@ -115,6 +117,8 @@ class BinarySearch {
     }
 }
 ```
+##output
+![output](ep3b.png)
 
 C)DEVELOP A JAVA PROGRAM TO SORT FOR AN ELEMENT IN A GIVEN LIST OF ELE- MENTS USING BUBBLE SORT.
 ```java
@@ -161,4 +165,16 @@ class BubbleSort {
         sc.close();
     }
 }
+
 ```
+
+##output
+![output](ep3c.png)
+
+
+
+
+
+
+
+
