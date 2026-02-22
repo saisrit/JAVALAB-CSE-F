@@ -35,3 +35,5 @@ public class Palindrome {
     }
 }
 ```
+##output
+![output](ADEP3.java.png)
