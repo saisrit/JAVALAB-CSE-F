@@ -1,7 +1,10 @@
 
 # Experiment2
-## a>Mechanism
- ``` java
+## a>Implement class mechanism in Java.
+
+
+``` java
+SOURCE CODE:
 class MyClass {
    void displayMessage() {
         System.out.println("Hello! I am supreeth.");
@@ -25,8 +28,9 @@ MyClass obj = new MyClass();
 
 
 
-# b>Overload
+# b>A JAVA program TO implement method overloading.
 ```java
+SOURCE CODE:
 class Overload{
     int add(int a, int b) {
         return a + b;
@@ -52,8 +56,9 @@ class Overload{
 ![output of 2b](eb2b.png)
 
 
-# c>student
+# c>a JAVA program to implement constructor.
 ```java
+SOURCE CODE:
 class Student {
     String name;
     int age;
