@@ -1,4 +1,4 @@
-4a)
+4a)SINGLE INHERTENCE
 ```java
 public class Person
  {
@@ -10,7 +10,7 @@ public class Person
         this.age = age;
     }
 
-    // Method to display person details
+    
     void displayPersonDetails() {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
@@ -59,6 +59,12 @@ public class TestEmployee {
     }
 }
 ```
+
+##output
+![output](exp4a.png)
+
+
+
 4b)
 ```java
 public class Bicycle {
@@ -102,7 +108,13 @@ public class TestVehicle {
         eBike.showElectricBikeInfo();
     }
 }
-``` 
+```
+
+##output
+![output](exp4b.png)
+
+
+
 4c)
 ```java
 public abstract class Figure {
@@ -139,3 +151,6 @@ public class TestFigure {
     }
 }
 ```
+##output
+![output](exp4c.png)
+
