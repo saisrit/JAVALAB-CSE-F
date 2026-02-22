@@ -1,4 +1,4 @@
-4a)SINGLE INHERTENCE
+4a) A JAVA program to implement Single Inheritance
 ```java
 public class Person
  {
@@ -65,7 +65,7 @@ public class TestEmployee {
 
 
 
-4b)
+4b)A JAVA program to implement multi-level Inheritance
 ```java
 public class Bicycle {
     String pedalType;
@@ -115,7 +115,7 @@ public class TestVehicle {
 
 
 
-4c)
+4c)Construct abstract class in JAVA to find areas of different shapes
 ```java
 public abstract class Figure {
     double dim1;
