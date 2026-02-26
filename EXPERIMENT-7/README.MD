@@ -50,6 +50,10 @@ public class  UserRegion {
             System.out.println("Program terminated properly.");
         }
 ```
+##output
+![output](exp7a.png)
+
+
 7B>
 
 
