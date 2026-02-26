@@ -1,4 +1,4 @@
-6a)
+6a)A JAVA program that describes exception handling mechanism.
 ```
 import java.util.Scanner;
 class ExceptionHandling {
@@ -24,7 +24,7 @@ sc.close();
 }
 
 ```
-6b)
+6b)A JAVA program Illustrating Multiple catch clauses.
 ```
 import java.util.Scanner;
 import java.util.InputMismatchException;
@@ -61,11 +61,7 @@ public class MultipleCatchDemo {
 }
 ```
 
-
-
-
-
-6c)
+6c)A JAVA program for creation of Java Built-in Exceptions.
 ```
 
 
