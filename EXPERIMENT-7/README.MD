@@ -1,6 +1,6 @@
 
 EXPERIMENT7
-7A>
+7A>A JAVA PROGRAM FOR CREATION OF USER DEFINED EXCEPTION
 ```
 CODE:
 import java.util.Scanner;
@@ -54,7 +54,7 @@ public class  UserRegion {
 ![output](ep7a.png)
 
 
-7B>
+7B>JAVA PROGRAM THAT CREATES THREADS BY EXTENDING THREADCLASS.
 
 
 ```
@@ -114,7 +114,7 @@ public class TestThreads {
 }
 
 ```
-7C>
+7C> PROGRAM FOR ILLUSTRATING IS ALIVE AND JOIN () IN JAVA
 ```
 CODE:
 class LongRunningTask extends Thread {
