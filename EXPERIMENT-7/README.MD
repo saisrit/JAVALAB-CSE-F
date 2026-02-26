@@ -51,7 +51,7 @@ public class  UserRegion {
         }
 ```
 ##output
-![output](exp7a.png)
+![output](ep7a.png)
 
 
 7B>
