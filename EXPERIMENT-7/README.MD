@@ -114,6 +114,13 @@ public class TestThreads {
 }
 
 ```
+
+##output
+![output](ep7b.png)
+
+
+
+
 7C> PROGRAM FOR ILLUSTRATING IS ALIVE AND JOIN () IN JAVA
 ```
 CODE:
@@ -156,3 +163,6 @@ public class ThreadDemo {
 
 
 ```
+
+##output
+![output](ep7c.png)
