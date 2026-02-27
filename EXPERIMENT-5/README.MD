@@ -70,7 +70,7 @@ public class Testsort {
 
 
 ##output
-![output](exp5a.png)
+![output](myep5a.png)
 
 
 
@@ -116,7 +116,7 @@ public class TestVehicle {
 ```
 
 ##output
-![output](exp5b.png)
+![output](myep5b.png)
 5c>
 ```java
  public class StringBufferDeleteDemo {
@@ -140,4 +140,4 @@ public class TestVehicle {
 ```
 
 ##output
-![output](exp5c.png)
+![output](myep5c.png)
