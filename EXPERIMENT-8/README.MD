@@ -35,7 +35,8 @@ public class TestDaemon {
 }
 
 ```
-
+##output
+![output](ep8a.png)
 
 
 
@@ -129,6 +130,10 @@ public class TestProducerConsumer {
 
 ```
 
+##output
+![output](ep8b.png)
+
+
 #8C
 ```
 
@@ -178,3 +183,5 @@ public class Calculate {
 }
 
 ```
+##output
+![output](ep8c.png)
