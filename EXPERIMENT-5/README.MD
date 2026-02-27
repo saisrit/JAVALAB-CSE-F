@@ -1,4 +1,4 @@
-5a>
+5a>JAVA program to implement Interface
 ```java
 interface Sortable {
     void sort(int[] arr);
@@ -74,7 +74,7 @@ public class Testsort {
 
 
 
-5b>
+5b>JAVA program that implements Runtime polymorphism
 ```java
 
 class Vehicle {
@@ -117,7 +117,7 @@ public class TestVehicle {
 
 ##output
 ![output](myep5b.png)
-5c>
+5c>JAVA program using StringBuffer to delete, remove character.
 ```java
  public class StringBufferDeleteDemo {
     public static void main(String[] args) {
