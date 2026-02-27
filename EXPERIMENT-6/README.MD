@@ -24,6 +24,10 @@ sc.close();
 }
 
 ```
+##output
+![output](ep6a.png)
+
+
 6b)A JAVA program Illustrating Multiple catch clauses.
 ```
 import java.util.Scanner;
@@ -60,6 +64,10 @@ public class MultipleCatchDemo {
     }
 }
 ```
+##output
+![output](ep6b.png)
+
+
 
 6c)A JAVA program for creation of Java Built-in Exceptions.
 ```
@@ -102,3 +110,5 @@ public class BuiltInExceptionsDemo {
 }
 
 ```
+##output
+![output](ep6c.png)
