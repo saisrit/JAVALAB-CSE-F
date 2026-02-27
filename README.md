@@ -723,8 +723,10 @@ public class TestFigure {
 ![output](exp4c.png)
 
 EXPERIMENT-5
-5a>
-```JAVA
+
+
+5a>JAVA program to implement Interface
+```java
 interface Sortable {
     void sort(int[] arr);
 }
@@ -792,13 +794,15 @@ public class Testsort {
     }
 }
 ```
+
+
 ##output
 ![output](myep5a.png)
 
 
-5B)
 
-```JAVA
+5b>JAVA program that implements Runtime polymorphism
+```java
 
 class Vehicle {
     void run() {
@@ -836,16 +840,12 @@ public class TestVehicle {
     }
 }
 
-
-
-
 ```
 
 ##output
 ![output](myep5b.png)
-5C>
-```JAVA
-
+5c>JAVA program using StringBuffer to delete, remove character.
+```java
  public class StringBufferDeleteDemo {
     public static void main(String[] args) {
 
@@ -864,17 +864,7 @@ public class TestVehicle {
         System.out.println("After deleting characters from index 0 to 4: " + sb);
     }
 }
-
-
 ```
-
 
 ##output
 ![output](myep5c.png)
-
-
-
-
-
-
-
