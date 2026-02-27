@@ -792,7 +792,12 @@ public class Testsort {
     }
 }
 ```
-5B>
+##output
+![output](myep5a.png)
+
+
+5B)
+
 ```JAVA
 
 class Vehicle {
@@ -835,6 +840,9 @@ public class TestVehicle {
 
 
 ```
+
+##output
+![output](myep5b.png)
 5C>
 ```JAVA
 
@@ -861,7 +869,8 @@ public class TestVehicle {
 ```
 
 
-
+##output
+![output](myep5c.png)
 
 
 
