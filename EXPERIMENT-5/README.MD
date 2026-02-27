@@ -67,6 +67,13 @@ public class Testsort {
     }
 }
 ```
+
+
+##output
+![output](exp5a.png)
+
+
+
 5b>
 ```java
 
@@ -107,6 +114,9 @@ public class TestVehicle {
 }
 
 ```
+
+##output
+![output](exp5b.png)
 5c>
 ```java
  public class StringBufferDeleteDemo {
@@ -128,3 +138,6 @@ public class TestVehicle {
     }
 }
 ```
+
+##output
+![output](exp5c.png)
