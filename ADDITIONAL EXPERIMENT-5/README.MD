@@ -67,3 +67,5 @@ public class CricketTeam {
     }
 }
 ```
+##output
+![output](ADDEP5.png)
