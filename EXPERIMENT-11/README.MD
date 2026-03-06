@@ -1,4 +1,4 @@
-
+```
 class Reservation {
     int availableBerths;
 
@@ -55,5 +55,5 @@ public class TrainReservation {
 }
 
 
-
+```
 
