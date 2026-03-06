@@ -56,4 +56,6 @@ public class TrainReservation {
 
 
 ```
+## OUTPUT:
+![output of 11](ep11.png)
 
