@@ -1,4 +1,4 @@
-
+```
 import java.util.*;
 
 class Cricket {
@@ -66,3 +66,4 @@ public class CricketTeam {
         sc.close();
     }
 }
+```
