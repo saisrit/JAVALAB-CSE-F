@@ -47,13 +47,15 @@ public class Create {
 }
 
 
-
-
-
-
-
-
 ```
+
+
+##output
+![output](ep9a.png)
+
+
+
+
 9b>
 ```
 import java.sql.Connection;
@@ -109,6 +111,15 @@ public class Insert {
 
 
 ```
+
+##output
+![output](ep9b.png)
+
+
+
+
+
+
 9c>
 ```
 import java.sql.Connection;
@@ -152,6 +163,8 @@ public class DeleteStudent {
 
 
 
+##output
+![output](ep9c.png)
 
 
 
