@@ -22,8 +22,9 @@
 
 
 ```
-output: 
 
+output: 
+```
 <?xml version = "1.0" encoding = "UTF-8" ?>
 <?import javafx.geometry.Insets ?>
 <?import javafx.scene.control.Label ?>
@@ -49,7 +50,7 @@ output:
         </image>
     </ImageView>
 </VBox>
-
+```
 
 
 
