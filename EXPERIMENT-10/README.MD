@@ -77,7 +77,35 @@ If you want, I can also give the 10(b) steps (Tip Calculator) in the same lab-re
 ```
 
 
+output: 
+<?xml version = "1.0" encoding = "UTF-8" ?>
 
+<?import javafx.geometry.Insets ?>
+<?import javafx.scene.control.Label ?>
+<?import javafx.scene.image.Image ?>
+<?import javafx.scene.image.ImageView ?>
+<?import javafx.scene.layout.VBox ?>
+<?import javafx.scene.text.Font ?>
+
+<VBox alignment = "CENTER" spacing = "10" xmlns:fx = "http://javafx.com">
+    <padding>
+        <Insets top = "10" right = "10" bottom = "10" left = "10" />
+    </padding>
+
+    <!-- Label to display text -->
+    <Label text = "Welcome to JavaFX" wrapText = "true">
+        <font>
+            <Font size = "20" />
+        </font>
+    </Label>
+
+    <!-- ImageView to display image -->
+    <ImageView fitWidth = "400" fitHeight = "300" preserveRatio = "true" smooth = "true">
+        <image>
+            <Image url = "@Screenshot 1-20(70).png" />
+        </image>
+    </ImageView>
+</VBox>
 
 
 
