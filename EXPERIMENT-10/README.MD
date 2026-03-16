@@ -19,6 +19,61 @@
 15. The GUI can later be loaded in a JavaFX application using FXML Loader if needed. 
 
 
+
+Here are the complete steps for Experiment 10(a) including your Step 9 correctly placed:
+
+10(a) Steps
+
+1. Open Scene Builder.
+2. Select a new FXML document for designing the GUI.
+
+
+3. Select a VBox Layout Container as the root element to arrange components vertically.
+
+
+4. Set the alignment of the VBox to CENTER so that all components appear in the center.
+
+
+5. Set the spacing between the components (for example 10px) to maintain proper distance.
+
+
+6. Add padding around the VBox edges to provide spacing from the window edges.
+
+
+7. Drag and place a Label component inside the VBox.
+
+
+8. Set the text property of the Label (example: “Welcome to JavaFX”).
+
+
+9. Adjust the font size and style of the Label to make the text clear and visible.
+
+
+10. Drag and place an ImageView component below the Label inside the VBox.
+
+
+11. Select an image file from the project resources folder and assign it to the ImageView.
+
+
+12. Set the fitWidth and fitHeight properties of the ImageView to control the image size.
+
+
+13. Enable Preserve Ratio = true so the image keeps its original proportions.
+
+
+14. Enable Smooth = true to improve the image scaling quality.
+
+
+15. Preview the layout in Scene Builder to ensure the text and image are displayed correctly.
+
+
+16. Save the FXML file and image resource in the project folder.
+
+
+
+If you want, I can also give the 10(b) steps (Tip Calculator) in the same lab-record format.
+
+
 ```
 
 
