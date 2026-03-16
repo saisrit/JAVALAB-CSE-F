@@ -1,7 +1,8 @@
 10a>
 ```
 
-1. Open Scene Builder to create a new FXML document for designing the GUI. 
+1. Open Scene Builder 
+2. select a new FXML document for designing the GUI. 
 2. Select a V-Box Layout Container as the root element to arrange Components vertically. 
 3. Set the alignment of the V-Box to center, so that all Components appear in the center. 
 4. Set the Spacing between the Components (for example 10px) to maintain proper distance. 
