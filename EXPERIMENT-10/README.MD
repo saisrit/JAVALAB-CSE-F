@@ -1,6 +1,26 @@
 10a>
 ```
 
+1. Open Scene Builder to create a new FXML document for designing the GUI. 
+2. Select a V-Box Layout Container as the root element to arrange Components vertically. 
+3. Set the alignment of the V-Box to center, so that all Components appear in the center. 
+4. Set the Spacing between the Components (for example 10px) to maintain proper distance. 
+5. Add Padding around the V-Box edges to provide spacing from the window edges. 
+6. Drag and place a Label Component inside the V-Box. 
+7. Set the text property of the Label (example: "Welcome to JAVA FX"). 
+
+AI can make mistakes, so double-check responses1. Adjust the font size and style of the label to make the text clear and visible. 
+2. Drag and place an Image view Component below the label inside the VBOX 
+3. Select an Image file from the project resources folder and assign it to the Image view. 
+4. Set the fitWidth and fitHeight properties of the Image view to control the Image size. 
+5. Enable Preserve Ratio = true so the image keeps its original proportions. 
+6. Enable Smooth = True to improve the image scaling quality. 
+7. Preview the Layout in Scene Builder to ensure the Text and image are displayed correctly. 
+8. Save the FXML file and image resource in the project folder. 
+9. The GUI can later be loaded in a JavaFX application using FXML Loader if needed. 
+
+AI can make mistakes, so double-check responses
+
 ```
 
 
