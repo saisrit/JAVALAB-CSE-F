@@ -1,4 +1,4 @@
-10a>
+10a>Without writing any code, build a GUI that display text in label and image in an Image View (use JavaFX).
 ```
  Steps to  Build GUL:
 
