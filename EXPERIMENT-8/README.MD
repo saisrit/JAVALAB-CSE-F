@@ -1,4 +1,4 @@
-#8A
+#8A>Write a Program illustrating Daemon Threads.
 ```
 class DaemonThread extends Thread {
     public void run() {
@@ -41,7 +41,7 @@ public class TestDaemon {
 
 
 
-#8B
+#8B>Write a JAVA program Producer Consumer Problem
 
 ```
 
@@ -65,7 +65,8 @@ class Buffer {
         notify();
     }
 
-    public synchronized int consume() throws InterruptedException {
+    public synchronized int consume() throws Int
+erruptedException {
         while (count == 0) {
             wait();
         }
@@ -134,7 +135,7 @@ public class TestProducerConsumer {
 ![output](ep8b.png)
 
 
-#8C
+#8C>Write a JAVA program that import and use the user defined packages
 ```
 
 
