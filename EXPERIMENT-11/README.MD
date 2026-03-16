@@ -1,3 +1,6 @@
+Write a Program using Threads for the following case study: Train Reservation system To reserve a berth the following process need to be followed, at first check the number of available berths with the requested berths, if the number of requested berths are less than or equal to available berths then allot berth and print ticket or else display no berths are available. Assume that N persons are trying to reserve the berth, display their sequence of reservation status
+along with the number of available berths. Note : The person can print ticket only if berth is confirmeD
+
 ```
 class Reservation {
     int availableBerths;
