@@ -8,18 +8,15 @@
 5. Add Padding around the V-Box edges to provide spacing from the window edges. 
 6. Drag and place a Label Component inside the V-Box. 
 7. Set the text property of the Label (example: "Welcome to JAVA FX"). 
+8. Drag and place an Image view Component below the label inside the VBOX 
+9. Select an Image file from the project resources folder and assign it to the Image view. 
+10. Set the fitWidth and fitHeight properties of the Image view to control the Image size. 
+11. Enable Preserve Ratio = true so the image keeps its original proportions. 
+12. Enable Smooth = True to improve the image scaling quality. 
+13. Preview the Layout in Scene Builder to ensure the Text and image are displayed correctly. 
+14. Save the FXML file and image resource in the project folder. 
+15. The GUI can later be loaded in a JavaFX application using FXML Loader if needed. 
 
-AI can make mistakes, so double-check responses1. Adjust the font size and style of the label to make the text clear and visible. 
-2. Drag and place an Image view Component below the label inside the VBOX 
-3. Select an Image file from the project resources folder and assign it to the Image view. 
-4. Set the fitWidth and fitHeight properties of the Image view to control the Image size. 
-5. Enable Preserve Ratio = true so the image keeps its original proportions. 
-6. Enable Smooth = True to improve the image scaling quality. 
-7. Preview the Layout in Scene Builder to ensure the Text and image are displayed correctly. 
-8. Save the FXML file and image resource in the project folder. 
-9. The GUI can later be loaded in a JavaFX application using FXML Loader if needed. 
-
-AI can make mistakes, so double-check responses
 
 ```
 
