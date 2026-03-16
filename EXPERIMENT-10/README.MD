@@ -53,7 +53,8 @@ output:
 
 
 
-10b>
+10b>Build a Tip Calculator app using several JavaFX components and
+learn how to respond to user interactions with the GUI.
 ```
 //package com.tipcalculator;
 
