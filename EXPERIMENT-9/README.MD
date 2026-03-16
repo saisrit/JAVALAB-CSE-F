@@ -1,5 +1,5 @@
 
-9a>
+9a>Write a java program that connects to a database using JDBC
 ```
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -56,7 +56,8 @@ public class Create {
 
 
 
-9b>
+9b>Write a java program to connect to a database using JDBC and insert values
+into it.
 ```
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -120,7 +121,8 @@ public class Insert {
 
 
 
-9c>
+9c>Write a java program to connect to a database using JDBC and delete values
+from it.
 ```
 import java.sql.Connection;
 import java.sql.DriverManager;
