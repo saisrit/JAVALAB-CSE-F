@@ -1,3 +1,5 @@
+5>Define a Class called cricket that describes the following information: Player name, team name and batting average Using the Class Cricket, declare an array player and write a Java program that reads information about all the players and print team-wise list containing names of players with their batting average?
+
 ```
 import java.util.*;
 
