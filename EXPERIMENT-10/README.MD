@@ -52,6 +52,13 @@ output:
 </VBox>
 ```
 
+##output
+![output](EP10A.png)
+
+
+
+
+
 
 
 10b>Build a Tip Calculator app using several JavaFX components and
