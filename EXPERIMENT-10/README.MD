@@ -127,3 +127,9 @@ public class TipCalculator extends Application {
 
 ```
 
+##output
+![output](EP10B.png)
+
+
+
+
